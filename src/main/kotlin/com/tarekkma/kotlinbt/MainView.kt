@@ -124,7 +124,6 @@ class MainView : View("Serial Port Terminal") {
         titledpane("Communication History", collapsible = false) {
             useMaxSize = true
             vgrow = Priority.ALWAYS
-            add(AutoScrollTextArea().apply {  })
             textarea {
                 maxWidth = Double.MAX_VALUE
                 maxHeight = Double.MAX_VALUE
