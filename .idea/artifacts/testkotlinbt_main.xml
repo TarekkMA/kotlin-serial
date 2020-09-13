@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="testkotlinbt.main">
+    <output-path>$PROJECT_DIR$/out/artifacts/testkotlinbt_main</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.tarekkma.kotlinbt.MyApp" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="testkotlinbt_main.jar">
+        <element id="module-output" name="testkotlinbt.main" />
+      </element>
+    </root>
+  </artifact>
+</component>
